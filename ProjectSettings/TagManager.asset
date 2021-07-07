@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - enemy
+  - light
+  - gaurdlight
+  - CameraLight
+  - global light
+  - fadeout
+  - TransitionScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: room 1
+    uniqueID: 3376906367
+    locked: 0
+  - name: room 2
+    uniqueID: 58984403
+    locked: 0
+  - name: room 3
+    uniqueID: 2390379901
+    locked: 0
+  - name: room 4
+    uniqueID: 1728741749
+    locked: 0
+  - name: room 5
+    uniqueID: 3885217687
+    locked: 0
+  - name: room 6
+    uniqueID: 3132806917
+    locked: 0
+  - name: room 7
+    uniqueID: 3897823669
+    locked: 0
+  - name: player
+    uniqueID: 1459377563
+    locked: 0
